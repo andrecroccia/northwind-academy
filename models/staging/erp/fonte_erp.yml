@@ -7,3 +7,6 @@ sources:
       - name: category
       - name: products
       - name: suppliers
+      - name: employees
+      
+
