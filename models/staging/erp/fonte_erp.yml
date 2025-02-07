@@ -7,3 +7,8 @@ sources:
       - name: category
       - name: products
       - name: suppliers
+      - name: employees
+      - name: orders
+      - name: order_details
+
+
