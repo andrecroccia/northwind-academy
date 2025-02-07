@@ -7,4 +7,4 @@ vendas_em_2012(
 
 SELECT soma_total_bruto
 FROM vendas_em_2012
-WHERE soma_total_bruto =230784.68
+WHERE soma_total_bruto = 230784.68
